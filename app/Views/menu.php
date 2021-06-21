@@ -7,7 +7,7 @@
                     <ul>
                         <li><a href="#">Sejarah</a></li>
                         <li><a href="#">Visi dan Misi</a></li>
-                        <li><a href="#">Kepalaa Sekolah</a></li>
+                        <li><a href="#">Kepala Sekolah</a></li>
                     </ul>
                 </div>
             </li>
